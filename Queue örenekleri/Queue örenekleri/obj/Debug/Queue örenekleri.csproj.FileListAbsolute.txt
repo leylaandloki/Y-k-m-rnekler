@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\leyla_10A\githup örnekleri\Queue örenekleri\Queue örenekleri\bin\Debug\Queue örenekleri.exe.config
+C:\Users\User\Desktop\KORUMASIZ\leyla_10A\githup örnekleri\Queue örenekleri\Queue örenekleri\bin\Debug\Queue örenekleri.exe
+C:\Users\User\Desktop\KORUMASIZ\leyla_10A\githup örnekleri\Queue örenekleri\Queue örenekleri\bin\Debug\Queue örenekleri.pdb
+C:\Users\User\Desktop\KORUMASIZ\leyla_10A\githup örnekleri\Queue örenekleri\Queue örenekleri\obj\Debug\Queue örenekleri.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\leyla_10A\githup örnekleri\Queue örenekleri\Queue örenekleri\obj\Debug\Queue örenekleri.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\leyla_10A\githup örnekleri\Queue örenekleri\Queue örenekleri\obj\Debug\Queue_örenekleri.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\leyla_10A\githup örnekleri\Queue örenekleri\Queue örenekleri\obj\Debug\Queue_örenekleri.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\leyla_10A\githup örnekleri\Queue örenekleri\Queue örenekleri\obj\Debug\Queue örenekleri.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\leyla_10A\githup örnekleri\Queue örenekleri\Queue örenekleri\obj\Debug\Queue örenekleri.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\leyla_10A\githup örnekleri\Queue örenekleri\Queue örenekleri\obj\Debug\Queue örenekleri.exe
+C:\Users\User\Desktop\KORUMASIZ\leyla_10A\githup örnekleri\Queue örenekleri\Queue örenekleri\obj\Debug\Queue örenekleri.pdb

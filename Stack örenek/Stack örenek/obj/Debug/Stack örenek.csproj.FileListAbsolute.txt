@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\leyla_10A\githup örnekleri\Stack örenek\Stack örenek\bin\Debug\Stack örenek.exe.config
+C:\Users\User\Desktop\KORUMASIZ\leyla_10A\githup örnekleri\Stack örenek\Stack örenek\bin\Debug\Stack örenek.exe
+C:\Users\User\Desktop\KORUMASIZ\leyla_10A\githup örnekleri\Stack örenek\Stack örenek\bin\Debug\Stack örenek.pdb
+C:\Users\User\Desktop\KORUMASIZ\leyla_10A\githup örnekleri\Stack örenek\Stack örenek\obj\Debug\Stack örenek.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\leyla_10A\githup örnekleri\Stack örenek\Stack örenek\obj\Debug\Stack örenek.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\leyla_10A\githup örnekleri\Stack örenek\Stack örenek\obj\Debug\Stack_örenek.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\leyla_10A\githup örnekleri\Stack örenek\Stack örenek\obj\Debug\Stack_örenek.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\leyla_10A\githup örnekleri\Stack örenek\Stack örenek\obj\Debug\Stack örenek.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\leyla_10A\githup örnekleri\Stack örenek\Stack örenek\obj\Debug\Stack örenek.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\leyla_10A\githup örnekleri\Stack örenek\Stack örenek\obj\Debug\Stack örenek.exe
+C:\Users\User\Desktop\KORUMASIZ\leyla_10A\githup örnekleri\Stack örenek\Stack örenek\obj\Debug\Stack örenek.pdb
